@@ -17,6 +17,7 @@ I'm a passionate **Computer Science Engineering** student at ITM SLS Baroda Univ
 - 🌱 Learning and exploring AI, Machine Learning, and Modern Web Technologies
 - 💡 Passionate about building impactful projects that make a difference
 - 🔭 Working on AI-powered solutions for agriculture
+- 🙏 Active **BAPS Volunteer** | Former **PSM 100 Event Manager** (Stage 2, 2021-2022)
 - 👯 Open to collaborating on innovative projects
 - 📫 Reach me at: bhavikpatel110@gmail.com
 
@@ -91,6 +92,8 @@ A sophisticated dual-engine AI diagnostic tool designed to revolutionize crop he
 - 🔥 **Firebase Community Member** - Google
 - 👨‍💻 **Google Developer** - Google Dev
 - 🏆 **Solution Challenge Participant** - H2S, Google
+- 🙏 **BAPS Volunteer** - Active Community Service
+- 🎭 **PSM 100 Event Manager** (Stage 2, 2021-2022) - BAPS
 - 📚 **SQL Programming Essentials** - SDE Arts
 
 ## 📊 GitHub Stats
@@ -127,12 +130,12 @@ I'm always open to interesting conversations and collaboration opportunities. Fe
 ### 📫 How to reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bhavikkumar-patel-082314209/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:bhavikpatel110@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:www.bhavikpatel110@gmail.com)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/bhavikpatel110)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/bhavikpatel110/)
 
 ---
 
-⭐️ From [BhavikPatel](https://github.com/yourusername) | 💼 Open for Internship Opportunities | 🎓 B.Tech CSE Student
+⭐️ From [BhavikPatel](https://github.com/PATEL-BHAVIK2306005/) | 💼 Open for Internship Opportunities | 🎓 B.Tech CSE Student
 
 </div>
